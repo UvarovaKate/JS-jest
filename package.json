@@ -1,7 +1,7 @@
 {
     "private": true,
     "scripts": {
-        "test": "jest"
+        "test": "jest --verbose"
     },
     "devDependancies": {
         "jest":"^29.2.1"
